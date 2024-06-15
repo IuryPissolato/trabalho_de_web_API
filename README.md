@@ -1,9 +1,9 @@
 
 # Api com Node
 
-### Aluno: Wallace de Melo Barros
+### Aluno:  Iury Maia Pissolato
 
-Projeto: Desenvolver habilidades práticas na criação e implementação de APIs RESTful utilizando Node.js, Express, Sequelize, dotenv e MySQL.
+Projeto: Desenvolver práticas na criação de APIs.
 
 Disciplina: Desenvolvimento Web II
 
