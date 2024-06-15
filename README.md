@@ -3,7 +3,7 @@
 
 ### Aluno:  Iury Maia Pissolato
 
-Projeto: Desenvolver práticas na criação de APIs.
+Projeto: api de filmes, um filme pode ter muitos generos e um filme tem um diretor.
 
 Disciplina: Desenvolvimento Web II
 
